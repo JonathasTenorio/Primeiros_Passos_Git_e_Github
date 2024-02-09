@@ -2,13 +2,28 @@
 
 O intuito deste repositório é orientar de forma prática os novos usuários que se sentem perdidos ao lidar com o git e github e ao inicializar e subir novos repositórios remotamente.
 
+
+# Sumário 
+- [1. Instalar o git](#1.-Instalar-o-git)
+    - [1.1 Fazer o download](#11-fazer-o-download-para-a-versão-do-seu-sistema-operacional-no-link-git-downloads)
+    - [1.2 Realizando instalação](#12-realizando-a-instalação)
+      - [1.2.a Instalação no Windows](#12a---instalando-no-windows)
+      - [1.2.b Instalação no Windows](#12b---instalando-no-ubuntu)
+- [2. Configurando o Git ](#2.-Configurando-o-Git)
+    - [2.1 Configurando o Git no windows](#21---configurando-o-git-no-windows)
+    - [2.2 Configurando o Git no Ubuntu](#22---configurando-o-git-no-ubuntu)
+- [3. Autenticação via Token](#3-autenticação-via-token)
+- [4. Autenticação via SSH](#4-autenticação-via-ssh)
+- [5. Criando seu repositório e subindo seu código remotamente.](#5-criando-seu-repositório-e-subindo-seu-código-remotamente)
+- [6. Referências](#6-referências)
+
 ## 1. Instalar o git
 
 - Ferramenta de versionamento de código.
   
 ### 1.1. Fazer o download para a versão do seu sistema operacional no link [Git Downloads](https://git-scm.com/downloads)
 
-### 1.2. Realizar a instalação
+### 1.2. Realizando a instalação
 
 #### 1.2.a - Instalando no Windows:
 
