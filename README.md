@@ -67,7 +67,7 @@ Primeiramente vamos abrir o terminal e em seguida digitar o comando `git config 
 
 Em seguida, adicionamos o email que vamos utilizar `git config --global user.email o_mesmo_email_do_@github.com`
 
-Obs.: Caso os comandos não executem por falta de permissão (Permission Denied) execute como com a palavra reservada `sudo` antes de cada comando. Ex.: `sudo vonfig --global user.name "nome_do_usuario" `
+Obs.: Caso os comandos não executem por falta de permissão (Permission Denied) execute como com a palavra reservada `sudo` antes de cada comando. Ex.: `sudo config --global user.name "nome_do_usuario" `
 
 ## 3. Autenticação via Token
 
